@@ -1,0 +1,23 @@
+{
+  "name": "test-javascript-env",
+  "version": "0.0.0",
+  "description": "esto es un entorno de prueba de ES6 para node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiaanhernandez/test-javascript-env.git"
+  },
+  "keywords": [
+    "node",
+    "ES6"
+  ],
+  "author": "@cristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiaanhernandez/test-javascript-env/issues"
+  },
+  "homepage": "https://github.com/cristiaanhernandez/test-javascript-env#readme"
+}
